@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/800x20/E63946/000000?text=+" alt="Borda superior" />
-</p>
-
 <table align="center" style="border: none; background-color: #1C2526; padding: 20px; width: 90%; max-width: 800px;">
   <tr>
     <td style="border: none; text-align: center; color: #A8A8A8;">
@@ -31,7 +27,3 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x20/E63946/000000?text=+" alt="Borda inferior" />
-</p>
