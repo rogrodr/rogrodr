@@ -1,11 +1,11 @@
 <div style="border: 3px solid #E63946; border-radius: 10px; padding: 20px; background-color: #1C2526; margin: 0 auto; max-width: 800px;">
 
-<h1 align="center" style="color: #E63946;">👾 Robson Rodrigues</h1>
+<h1 align="center" style="color: #E63946;">Robson Rodrigues</h1>
 <p align="center" style="color: #A8A8A8;">Estudante de Sistemas com conhecimento Full-Stack</p>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" alt="Java" width="50" height="50" style="margin: 10px;"/>
