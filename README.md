@@ -1,6 +1,7 @@
+<div style="border: 3px solid #E63946; border-radius: 10px; padding: 20px; background-color: #1C2526; margin: 0 auto; max-width: 800px;">
 
 <h1 align="center" style="color: #E63946;">👾 Robson Rodrigues</h1>
-<p align="center" style="color: #A8A8A8;">Estudante de Sistemas com conhecimento Full-Stack </p>
+<p align="center" style="color: #A8A8A8;">Estudante de Sistemas com conhecimento Full-Stack</p>
 
 ---
 
@@ -16,9 +17,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="50" height="50" style="margin: 10px;" />
-                 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="50" height="50" style="margin: 10px;"/>
 </p>
+
+</div>
 
