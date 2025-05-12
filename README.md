@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/150/1C2526/FFFFFF?text=Seu+Nome" alt="Avatar" style="border-radius:50%; border: 2px solid #E63946;"/>
-</p>
 
 <h1 align="center" style="color: #E63946;">👾 Robson Rodrigues</h1>
 <p align="center" style="color: #A8A8A8;">Estudante de Sistemas com conhecimento Full-Stack </p>
