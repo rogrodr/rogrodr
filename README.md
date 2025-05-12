@@ -1,11 +1,17 @@
-<div style="border: 3px solid #E63946; border-radius: 10px; padding: 20px; background-color: #1C2526; margin: 0 auto; max-width: 800px;">
+<p align="center">
+  <img src="https://via.placeholder.com/800x20/E63946/000000?text=+" alt="Borda superior" />
+</p>
 
-<h1 align="center" style="color: #E63946;">Robson Rodrigues</h1>
+<table align="center" style="border: none; background-color: #1C2526; padding: 20px; width: 90%; max-width: 800px;">
+  <tr>
+    <td style="border: none; text-align: center; color: #A8A8A8;">
+      
+<h1 align="center" style="color: #E63946;">👾 Robson Rodrigues</h1>
 <p align="center" style="color: #A8A8A8;">Estudante de Sistemas com conhecimento Full-Stack</p>
 
 ---
 
-##  Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" alt="Java" width="50" height="50" style="margin: 10px;"/>
@@ -22,5 +28,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="50" height="50" style="margin: 10px;"/>
 </p>
 
-</div>
+    </td>
+  </tr>
+</table>
 
+<p align="center">
+  <img src="https://via.placeholder.com/800x20/E63946/000000?text=+" alt="Borda inferior" />
+</p>
