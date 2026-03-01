@@ -1,7 +1,9 @@
 <h1 align="center" style="color: #E63946;">Robson Rodrigues</h1>
 <p align="center" style="color: #A8A8A8;">Information Systems student at Unipar (Paranaense University) with a focus on Full-Stack development. My core expertise lies in Java Spring Boot for the Backend and React.js for the Frontend.
 
-Currently, I am expanding my stack to include Node.js and NestJS while deepening my knowledge in Information Security. Organized and detail-oriented, I am looking for opportunities to apply my technical skills and grow within the industry.</p>
+Currently, I am expanding my stack to include Node.js and NestJS while deepening my knowledge in Information Security and exploring AI Agents orchestration using Node.js.
+
+Organized and detail-oriented, I am looking for opportunities to apply my technical skills and grow within the industry.</p>
 
 ---
 
