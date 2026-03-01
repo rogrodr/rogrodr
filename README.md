@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #E63946;">Robson Rodrigues</h1>
-<p align="center" style="color: #A8A8A8;">Full-Stack Developer | Java, React & AI Engineering
+<p align="center" style="color: #A8A8A8;">
 
 Information Systems student at Unipar, dedicated to building scalable and intelligent software. My core expertise lies in Java (Spring Boot) and React.js, creating robust full-stack applications.
 
