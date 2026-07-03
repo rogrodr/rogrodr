@@ -3,7 +3,7 @@
 
 Information Systems student at Unipar, dedicated to building scalable and intelligent software. My core expertise lies in Java (Spring Boot) and React.js, creating robust full-stack applications.
 
-Currently, I am bridging the gap between traditional software and AI by specializing in AI Agent orchestration and Autonomous Workflows using Node.js and NestJS. I am passionate about how Information Security and AI can work together to create more resilient, smarter systems.
+Currently, I am bridging the gap between traditional software and AI by specializing in AI Agent orchestration and Autonomous Workflows. I leverage Node.js, NestJS, Mastra, and the Vercel AI SDK to build production-ready intelligent features. I am passionate about how Information Security and AI can work together to create more resilient, smarter systems.
 
 Always looking for challenges where I can apply my stack to solve real-world problems.</p>
 
@@ -17,6 +17,8 @@ Always looking for challenges where I can apply my stack to solve real-world pro
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Mastra AI](https://img.shields.io/badge/Mastra%20AI-%231A102F?style=for-the-badge&logo=ai&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -25,5 +27,3 @@ Always looking for challenges where I can apply my stack to solve real-world pro
 **Dev Tools & Automation**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
-                 
-</p>
