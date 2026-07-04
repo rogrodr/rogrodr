@@ -1,11 +1,11 @@
 <h1 align="center" style="color: #E63946;">Robson Rodrigues</h1>
 <p align="center" style="color: #A8A8A8;">
+Information Systems student at Unipar, dedicated to building scalable and intelligent software. My core expertise lies in full-stack development using Node.js (NestJS) and React.
 
-Information Systems student at Unipar, dedicated to building scalable and intelligent software. My core expertise lies in Java (Spring Boot) and React.js, creating robust full-stack applications.
+Currently, I am specializing in AI Agent orchestration and Autonomous Workflows, leveraging tools like Mastra and the Vercel AI SDK. I am passionate about building production-ready intelligent features and exploring the intersection of Information Security and AI.
 
-Currently, I am bridging the gap between traditional software and AI by specializing in AI Agent orchestration and Autonomous Workflows. I leverage Node.js, NestJS, Mastra, and the Vercel AI SDK to build production-ready intelligent features. I am passionate about how Information Security and AI can work together to create more resilient, smarter systems.
-
-Always looking for challenges where I can apply my stack to solve real-world problems.</p>
+Always looking for challenges where I can apply my stack to solve real-world problems.
+</p>
 
 ---
 
@@ -17,6 +17,10 @@ Always looking for challenges where I can apply my stack to solve real-world pro
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Mastra AI](https://img.shields.io/badge/Mastra%20AI-000000?style=for-the-badge)
+
+**Databases**
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
