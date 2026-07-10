@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #E63946;">Robson Rodrigues</h1>
 <p align="center" style="color: #A8A8A8;">
-Information Systems student at Unipar, dedicated to building scalable and intelligent software. My core expertise lies in full-stack development using Node.js (NestJS) and React.
+Information Systems student at Unipar, dedicated to building scalable and intelligent software. I chose programming because I genuinely love building things with technology, and my core expertise lies in full-stack development using Node.js (NestJS) and React.  
 
 Currently, I am specializing in AI Agent orchestration and Autonomous Workflows, leveraging tools like Mastra and the Vercel AI SDK. I am passionate about building production-ready intelligent features and exploring the intersection of Information Security and AI.
 
