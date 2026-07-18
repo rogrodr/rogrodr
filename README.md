@@ -6,7 +6,18 @@ Currently, I am specializing in AI Agent orchestration and Autonomous Workflows,
 
 Always looking for challenges where I can apply my stack to solve real-world problems.
 </p>
+---
 
+### 🚀 Featured Project
+
+<div align="center">
+  <h3>RSON ERP — Multi-tenant Business Management System</h3>
+  <p style="color: #A8A8A8;">
+    Full-stack ERP built from scratch with NestJS + Prisma + PostgreSQL on the backend and React + Vite + Tailwind on the frontend. Features multi-tenant JWT authentication, sales/purchase orders, inventory control, accounts payable/receivable, price history, and an audit log.
+  </p>
+
+  [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://saas-erp-nestjs.vercel.app/login)
+</div>
 ---
 
 ### Tech Stack
