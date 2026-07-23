@@ -9,7 +9,7 @@ Currently focused on building production-ready applications, AI Agent orchestrat
 ## Featured Project
 
 **RSON ERP — Multi-tenant Business Management System**
-Full-stack ERP built from scratch with NestJS, Prisma, PostgreSQL, React, and Tailwind. Features multi-tenant JWT auth, inventory control, and an audit log.
+Full-stack ERP built from scratch with NestJS, Prisma,Supabase (PostgreSQL ), React, and Tailwind. Features multi-tenant JWT auth, inventory control, and an audit log.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://saas-erp-nestjs.vercel.app/login)
 
