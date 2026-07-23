@@ -1,6 +1,6 @@
 # Robson Rodrigues
 
-Information Systems student at Unipar and Full-Stack Developer specializing in Node.js (NestJS), React, and Next.js. I genuinely love building things with technology—from scalable software to exploring hardware and games.
+Information Systems student at Unipar and Full-Stack Developer specializing in Node.js (NestJS), React, and Next.js. I genuinely like building things with technology, scalable softwares and exploring the wold of hardware.
 
 Currently focused on building production-ready applications, AI Agent orchestration (Mastra, Vercel AI SDK), and the intersection of Information Security and AI.
 
